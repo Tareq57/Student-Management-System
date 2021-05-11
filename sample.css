@@ -1,0 +1,19 @@
+.root{
+    -fx-background-color: rgba(0,0,0,.5);
+    -fx-background-radius: 10;
+}
+.button{
+    -fx-background-radius: 10;
+    -fx-background-color:
+            radial-gradient(center 40% -50%,radius 10%,indianred 50%,red 50%),
+            linear-gradient(rgba(2, 21, 42, 0.75),#ff66cc,#02152ABE);
+    -fx-background-size: 50px;
+    -fx-effect: dropshadow(three-pass-box,rgba(110,256,0,0.5),1,1,0,1);
+    -fx-text-fill: rgba(256,256,256,1);
+}
+#anchor_right{
+    -fx-background-color: rgba(0,0,102,.5);
+}
+#anchor_top{
+    -fx-background-image: url("uj.jpg");
+}
