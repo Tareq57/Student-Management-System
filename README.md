@@ -1,5 +1,5 @@
 # Student-Management-System
-This is a management system made by java, javafx, mysql and css.It can be used to maintain student info in a school or college data.
+This is a management system made by java, javafx, mysql and css.It can be used to maintain student info in a school or college data.If You want to use this code, you have to change the localhost link.
 # LANGUAGES
 - Backend Language: JAVA
 - Frontend Language:CSS
